@@ -1,11 +1,8 @@
-#ifndef TEMPERATURERELAY_H
-#define TEMPERATURERELAY_H
+#ifndef SWITCHRELAY_H
+#define SWITCHRELAY_H
 
 #include "Arduino.h"
 #include "../ArduinoRelay/ArduinoRelay.h"
-
-#define MODE_HEAT   true
-#define MODE_COOL   false
 
 using namespace std;
 
